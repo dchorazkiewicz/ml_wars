@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+matplotlib
+jupyter
+keras
+pymc3
+arviz
+jupytext
+pycaret
