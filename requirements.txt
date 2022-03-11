@@ -6,4 +6,3 @@ keras
 pymc3
 arviz
 jupytext
-pycaret
